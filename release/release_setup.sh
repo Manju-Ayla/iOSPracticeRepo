@@ -16,3 +16,4 @@ else
     mkdir fastlane
 fi
 cp -r release/fastlane/* fastlane/
+pwd
