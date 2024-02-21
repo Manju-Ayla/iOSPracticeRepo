@@ -11,7 +11,6 @@ fi
 
 if [ -d ../fastlane ]; then
     echo "Your release environment has set up."
-    cd ..
 else
     cd ..
     mkdir fastlane
